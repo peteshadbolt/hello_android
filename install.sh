@@ -1,1 +1,1 @@
-adb -d install app/build/outputs/apk/app-arrogant-debug.apk
+adb -d install -r app/build/outputs/apk/app-arrogant-debug.apk

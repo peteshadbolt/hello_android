@@ -1,4 +1,4 @@
-package com.nfjs.helloworldas;
+package com.pjs.zzzzz;
 
 import android.test.AndroidTestCase;
 
