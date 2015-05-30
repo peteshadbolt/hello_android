@@ -16,13 +16,6 @@
         android:text="@string/hello_world"
         android:textSize="24sp" />
 
-    <ImageView
-        android:id="@+id/imageFlavor"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:contentDescription="@string/animal"
-        android:src="@drawable/animal" />
-
     <ListView
         android:id="@+id/list_view"
         android:layout_width="match_parent"

@@ -17,17 +17,6 @@ android {
     }
 
     productFlavors {
-        arrogant {
-
-        }
-
-        friendly {
-
-        }
-
-        obsequious {
-
-        }
     }
 }
 
