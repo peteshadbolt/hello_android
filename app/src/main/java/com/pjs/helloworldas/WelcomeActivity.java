@@ -24,6 +24,7 @@ public class WelcomeActivity extends Activity {
         setContentView(R.layout.activity_welcome);
         getActionBar().setDisplayHomeAsUpEnabled(true);
 
+        // This actually dumps my name into that textview
         String name = getIntent().getStringExtra("name");
         greetingText = (TextView) findViewById(R.id.greeting_text);
         String format = getString(R.string.greeting);

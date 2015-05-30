@@ -17,3 +17,7 @@ proguard/
 
 # Log Files
 *.log
+*.jar
+
+gradle/
+gradlew
